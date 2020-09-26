@@ -10,6 +10,9 @@ https://www.akm.com/content/dam/documents/products/audio/audio-codec/ak4954aen/a
 * APIs for controlling audio data flow
 
 ### What Changed?
+#### v1.0.1
+* Minor updates to avoid warnings on some toolchains
+* Minor documentation updates
 #### v1.0.0
 * Initial release
 
@@ -18,10 +21,12 @@ This version of the audio codec library was validated for compatibility with the
 
 | Software and Tools                        | Version |
 | :---                                      | :----:  |
-| ModusToolbox Software Environment         | 2.0     |
-| GCC Compiler                              | 7.4     |
-| IAR Compiler                              | 8.32    |
+| ModusToolbox Software Environment         | 2.1     |
+| GCC Compiler                              | 9.2     |
+| IAR Compiler                              | 8.4     |
 | ARM Compiler 6                            | 6.11    |
+
+Minimum required ModusToolbox Software Environment: v2.0
 
 ### More information
 
